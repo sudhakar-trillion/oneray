@@ -1,0 +1,1 @@
+<?php die('Restricted Access!'); ?>#AbanteCart#a:5:{i:69;a:2:{s:8:"subtract";b:1;s:8:"quantity";i:1553;}i:71;a:2:{s:8:"subtract";b:1;s:8:"quantity";i:1000;}i:72;a:2:{s:8:"subtract";b:1;s:8:"quantity";i:1000;}i:73;a:2:{s:8:"subtract";b:1;s:8:"quantity";i:1000;}i:101;a:2:{s:8:"subtract";b:1;s:8:"quantity";i:1511;}}
