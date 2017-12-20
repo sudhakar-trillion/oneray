@@ -63,7 +63,7 @@
             <!-- start container -->
         	<div class="container">
                 <div class="spacer-55"></div>
-                <h2 class="margin-25"><strong>OneRays Social & Listing Services</strong></h2><br/>
+                <h2 class="margin-25">OneRays Social & Listing Services</h2><br/>
                 <!-- start row -->
                 <div class="row">
                     <ul class="grid-holder isotope gallery-items">
@@ -71,7 +71,7 @@
                             <div class="grid-item-inner">
                                 <div class="grid-item-content">
                                     <h3 class="post-title">
-                                        <a><strong>Local Business Listing</strong></a>
+                                        <a>Local Business Listing</a>
                                     </h3>
                                     <hr class="sm">
                                     <p align="justify">OneRays a local business listing & promotion platform to make your business online and promote overthere. 
@@ -84,7 +84,7 @@
                             <div class="grid-item-inner">
                                 <div class="grid-item-content">
                                     <h3 class="post-title">
-                                        <a><strong>Social Web Advertising</strong></a>
+                                        <a>Social Web Advertising</a>
                                     </h3>
                                     <hr class="sm">
                                     <p align="justify"> We post relevant content to your Facebook and Twitter pages to keep them up-to-date & keep 
@@ -97,7 +97,7 @@
                             <div class="grid-item-inner">
                                 <div class="grid-item-content">
                                     <h3 class="post-title">
-                                        <a><strong>On Social Web Promotion</strong></a>
+                                        <a>On Social Web Promotion</a>
                                     </h3>
                                     <hr class="sm">
                                     <p align="justify">Our ad technology’s powerful targeting reaches your potential customers on Facebook and Instagram.</p>
@@ -109,7 +109,7 @@
                             <div class="grid-item-inner">
                                 <div class="grid-item-content">
                                     <h3 class="post-title">
-                                        <a><strong>Social Ads Monitoring</strong></a>
+                                        <a>Social Ads Monitoring</a>
                                     </h3>
                                     <hr class="sm">
                                     <p align="justify">You’ll receive weekly updates showing who is interacting with you on Facebook, Twitter and Instagram.</p>
@@ -127,7 +127,7 @@
                             <div class="grid-item-inner">
                                 <div class="grid-item-content">
                                     <h3 class="post-title">
-                                        <a><strong>Search Engine Optimisation</strong></a>
+                                        <a>Search Engine Optimisation</a>
                                     </h3>
                                     <hr class="sm">
                                     <p align="justify">Our experts can help make search engines work in favour to selective customers.</p>
@@ -138,7 +138,7 @@
                             <div class="grid-item-inner">
                                 <div class="grid-item-content">
                                     <h3 class="post-title">
-                                        <a><strong>Search Engine Marketing</strong></a>
+                                        <a>Search Engine Marketing</a>
                                     </h3>
                                     <hr class="sm">
                                     <p align="justify">We know all the tricks to deliver more leads to your business online on top of list.</p>
@@ -149,7 +149,7 @@
                             <div class="grid-item-inner">
                                 <div class="grid-item-content">
                                     <h3 class="post-title">
-                                        <a><strong>Pay Per Click Services</strong></a>
+                                        <a>Pay Per Click Services</a>
                                     </h3>
                                     <hr class="sm">
                                     <p align="justify">We deliver business to right audience and pay per click or sharing business ads.</p>
@@ -160,7 +160,7 @@
                             <div class="grid-item-inner">
                                 <div class="grid-item-content">
                                     <h3 class="post-title">
-                                        <a><strong>Website Designing & Development</strong></a>
+                                        <a>Website Designing & Development</a>
                                     </h3>
                                     <hr class="sm">
                                     <p align="justify">Fully Responsive, Creative, Dynamic Website, and 

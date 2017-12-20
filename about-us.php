@@ -35,8 +35,8 @@
                 <div class="spacer-70"></div>
                 <center>
                     <strong>
-                        <h1 class="accent-color"><strong>Promote Your Business With OneRays Advert<br> Platform 
-						To Engage Local Customers.</strong></h1><br/>
+                        <h1 class="accent-color abou-colorh1">Promote Your Business With OneRays Advert<br> Platform 
+						To Engage Local Customers.</h1><br/>
 						<hr class="sm"><hr class="sm"><hr class="sm"><hr class="sm"><hr class="sm"><hr class="sm">
                     </strong>
                 </center>
@@ -45,18 +45,18 @@
                 <!-- start row -->
                 <div class="row">
 				<div class="col-md-1 col-sm-6"></div>
-				<div class="col-md-5 col-sm-6">
+				<div class="col-md-5 col-sm-6 ab-mb">
                        <h3>1. Get Trusted Marketing Advice</h3>
                             <p align="justify">We'll get you seen in all the places you are looking, we are design, 
 							develop & promote your business on social website. </p>
                        
-                    <br>
+                
                        <h3>2. Supported With Expert Service</h3>
                             <p align="justify">You Stand out against your competitors & We can get potential customers 
 							involved with and talking about your business on social website.</p>
                         
                     
-                        <br>
+                    
                             <h3>3. Make A Return On Investment</h3>
                             <p align="justify">Your Social advert promotion will be seen by your target audience at least 
 							1000 times each month on social website or get monthly money back*</p>
@@ -66,7 +66,7 @@
 					  <div class="col-md-1 col-sm-6"></div>
                     <div class="col-md-4 col-sm-6">
                         <img src="images/img34.png" alt="">
-						<center><br/><br/><button class="btn btn-info btn-lg" data-toggle="modal" data-target="#myModal">Business Opportunity</button></center>
+						<center><br/><br/><button class="btn btn-info btn-lg about-pop" data-toggle="modal" data-target="#myModal">Business Opportunity</button></center>
 						<div class="modal fade" id="myModal" tabindex="-1" role="dialog"  aria-hidden="true">
                         <div class="modal-dialog">
                             <div class="modal-content">
@@ -132,7 +132,7 @@
                 	<div class="col-md-6">
                     	<img src="images/webimmg.jpg" alt="">
                     </div>
-					<div class="col-md-6">
+					<div class="col-md-6 ab-head">
                         <h2>Local Experience. Digital Expertise. One-on-one dedicated service. That's what makes us better.</h2>
                         <p align="justify">As a small business owner, you need a marketing partner who works as hard as you do. At OneRays, 
 						we make sure your website makes you look professional and dependable. Plus, we understand that a 
@@ -149,7 +149,7 @@
             <!-- end container -->
            <div class="spacer-30"></div>
             <!-- start carousel banner -->
-            <div class="parallax parallax1 padding-tb75" style="background-image:url(images/imgg121.jpg);">
+            <div class="parallax parallax1 padding-tb75" style="background-image:url(images/imgg121.jpg);     background: #0696cd;">
                 <!-- start container -->
                 <div class="container">
                     <!-- start row -->
@@ -266,7 +266,7 @@
                 <div class="spacer-60"></div>
                 <!-- start row -->
                 <div class="row">
-                	<div class="col-md-12"><center>
+                	<div class="col-md-12 ab-con"><center>
                     	 <h1>We are here for you in all times</h1>
                         <p>We've helped thousands of businesses — giving them the social targeted marketing they need 
 						to generate more <br>growth, more calls and more clients. Call us today and see how we expertise to help you, too!</p>

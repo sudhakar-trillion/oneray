@@ -40,17 +40,17 @@
     </div>
     <!-- end hero area -->
 	<div class="spacer-55"></div>
-           <div class="col-md-12">
+           <div class="col-md-12 ">
 			<center>
-                    	 <h1>Easy To Grow your business online.</h1>
+                    	 <h1 class="accent-color abou-colorh1">Easy To Grow your business online.</h1>
 						<br/>
 						<hr class="sm"><hr class="sm"><hr class="sm"><hr class="sm"><hr class="sm">
-                        <p><br/>"We're deliver — Satisfaction of our clients has been our top most priority since our inception"</p>
+                        <p class="web-cap"><br/>"We're deliver — Satisfaction of our clients has been our top most priority since our inception"</p>
                     </center>
 					</div>
 					
 			 <!-- start container -->
-					<div class="container">
+					<div class="container web-con">
 						<!-- start row -->
                 <div class="row">
 					<div class="col-md-1"></div>
@@ -79,7 +79,7 @@
             
 		</div>
     <div class="spacer-55"></div>
-           <div class="col-md-12">
+           <div class="col-md-12 ab-con">
 			<center>
                     	 <h1>We are here for you in all times</h1>
                         <p>Call now and we'll build you a website that looks great everywhere — and has the flexibility to grow<br/> your 

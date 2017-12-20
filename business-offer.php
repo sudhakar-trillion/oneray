@@ -59,17 +59,17 @@
                 <div class="row">
                 	<div class="col-md-12"><center>
 					<div class="spacer-20"></div>
-                    	 <h1><strong>Get Start Now - We Are Here For You</strong></h1><br/>
+                    	 <h1 class="accent-color abou-colorh1">Get Start Now - We Are Here For You</h1><br/>
 						 <hr class="sm"><hr class="sm"><hr class="sm"><hr class="sm"><hr class="sm"><hr class="sm">
 						  <div class="spacer-10"></div>
             <div class="pricing-table three-cols margin-0">
                 <div class="pricing-column">
-                    <h3><strong>Basic-Earning - 11500/-</strong></h3>
+                    <h3>Basic-Earning - 11500/-</h3>
 					<div class="spacer-20"></div>
 					<div class="pricing-column-content">
                        <ul>
-							<li><strong>Business Listing & Promotion Offer</strong></li>
-                            <li>Business Listing Feature<a href="#" data-toggle="popover" data-trigger="focus" data-placement="right" data-content="
+							<li class="web-of">Business Listing & Promotion Offer</li>
+                            <li>Business Listing Feature<a href="#" class="web-ico" data-toggle="popover" data-trigger="focus" data-placement="right" data-content="
 							- Feature Business Listing<br/>
 							- 10K Times Website Triffic<br/>
 							- 20 Business Product Image <br/>
@@ -84,7 +84,7 @@
                             <li>Package Validity - 12 Months</li>
                             <li>Working Limit 20-100Times a day</li>
 							<li>Minimum Earning Rs.130/Day</li>
-                            <li>Minimum Earning Rs.130/Day<a href="#" data-toggle="popover" data-trigger="focus" data-placement="right" data-content="
+                            <li>Minimum Earning Rs.130/Day<a href="#"  class="web-ico" data-toggle="popover" data-trigger="focus" data-placement="right" data-content="
 							1. Get Four Direct In 5 Day's<br/>
 							 Earn Daily Rs.140/- Daily<br/>
 							2. Get Four Direct Next 10 Day's<br/>
@@ -100,12 +100,12 @@
                     </div>
                 </div>
                 <div class="pricing-column">
-                    <h3><strong>Elite-Earning - 21500*/-</strong></h3>
+                    <h3>Elite-Earning - 21500*/-</h3>
 					<div class="spacer-20"></div>
                     <div class="pricing-column-content">
                         <ul>
-                           <li><strong>Business Listing & Promotion Offer</strong></li>
-                            <li>Business Listing Feature<a href="#" data-toggle="popover" data-trigger="focus" data-placement="right" data-content="
+                           <li class="web-of">Business Listing & Promotion Offer</li>
+                            <li>Business Listing Feature<a href="#"  class="web-ico" data-toggle="popover" data-trigger="focus" data-placement="right" data-content="
 							- Feature Business Listing<br/>
 							- 10K Times Website Triffic<br/>
 							- 20 Business Product Image <br/>
@@ -120,7 +120,7 @@
                             <li>Package Validity - 12 Month's</li>
                             <li>Working Limit 20-100Times a day</li>
                             <li>Minimum Earning Rs.265/Day</li>
-							<li>Minimum Earning Rs.265/Day<a href="#" data-toggle="popover" data-trigger="focus" data-placement="right" data-content="
+							<li>Minimum Earning Rs.265/Day<a href="#"  class="web-ico" data-toggle="popover" data-trigger="focus" data-placement="right" data-content="
 							1. Get Four Direct In 5 Day's<br/>
 							 Earn Daily Rs.275/- Daily<br/>
 							2. Get Four Direct Next 10 Day's<br/>
@@ -136,12 +136,12 @@
                     </div>
                 </div>
                 <div class="pricing-column">
-				<h3><strong>Pro-Earning - 42500/-</strong></h3>
+				<h3>Pro-Earning - 42500/-</h3>
 					<div class="spacer-20"></div>
                     <div class="pricing-column-content">
                        <ul>
-                            <li><strong>Web Design + Listing + Promotion Offer</strong></li>
-                            <li>Business Listing Feature<a href="#" data-toggle="popover" data-trigger="focus" data-placement="left" data-content="
+                            <li class="web-of">Web Design + Listing + Promotion Offer</li>
+                            <li>Business Listing Feature<a href="#"  class="web-ico" data-toggle="popover" data-trigger="focus" data-placement="left" data-content="
 							- Premium Website Designing<br/>
 							- Premium Feature Listing<br/>
 							- SEO, SME, PPC Services<br/>
@@ -165,7 +165,7 @@
                             <li>Responsive Website Design</li>
                             <li>Working Limit - Customise*</li>
                             <li>Working Bonus - Customise*</li>
-							<li>Minimum Earning Rs.540/Day<a href="#" data-toggle="popover" data-trigger="focus" data-placement="left" data-content="
+							<li>Minimum Earning Rs.540/Day<a href="#"  class="web-ico" data-toggle="popover" data-trigger="focus" data-placement="left" data-content="
 							1. Get Four Direct In 5 Day's<br/>
 							 Earn Daily Rs.550/- Daily<br/>
 							2. Get Four Direct Next 10 Day's<br/>
@@ -221,7 +221,7 @@
                 </div>
                 <!-- end row -->
 				<hr/>
-				  <div class="col-md-12">
+				  <div class="col-md-12 ab-con">
 					<center>
                     	 <br/><h1>We are here for you in all times</h1>
                         <p>We've helped thousands of businesses — giving them the social targeted marketing they need 
